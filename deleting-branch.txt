@@ -1,0 +1,2 @@
+git branch -D branch-name
+git push lab2 :branch-name
